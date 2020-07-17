@@ -1,0 +1,27 @@
+main {
+
+
+  background-color: $secondary_color;
+  .album-container {
+
+    display: flex;
+    flex-flow: row wrap;
+
+    .album {
+
+      padding: 5px;
+
+      box-shadow: 3px 16px 19px -4px rgba(0,0,0,0.68);
+      background-color: white;
+
+
+     flex-basis: calc( 100% / 5);
+      margin: 30px  20px 30px 0 ;
+
+    .cover {
+      width: 180px;
+    }
+
+    }
+  }
+}
