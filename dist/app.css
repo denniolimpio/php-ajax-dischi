@@ -15,10 +15,6 @@ main .album-container .album {
   margin: 30px 20px 30px 0;
 }
 
-main .album-container .album .cover {
-  width: 100px;
-}
-
 * {
   padding: 0;
   margin: 0;
@@ -54,3 +50,4 @@ header .logo {
   width: 90px;
   padding: 20px 0;
 }
+
